@@ -1,0 +1,19 @@
+{
+  "name": "sql_lambda",
+  "version": "1.0.0",
+  "description": "My short test project for Melior",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gillirond/SQL_Lambda.git"
+  },
+  "author": "Igor Bogunkov @Gillirond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gillirond/SQL_Lambda/issues"
+  },
+  "homepage": "https://github.com/Gillirond/SQL_Lambda#readme"
+}
