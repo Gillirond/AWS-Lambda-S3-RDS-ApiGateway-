@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Gillirond/SQL_Lambda/issues"
   },
-  "homepage": "https://github.com/Gillirond/SQL_Lambda#readme"
+  "homepage": "https://github.com/Gillirond/SQL_Lambda#readme",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "express": "^4.17.1",
+    "mysql2": "^2.0.1",
+    "request": "^2.88.0"
+  }
 }
